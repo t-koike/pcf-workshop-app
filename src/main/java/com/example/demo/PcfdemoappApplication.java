@@ -16,20 +16,20 @@ public class PcfdemoappApplication {
 		String app_index = System.getenv("CF_INSTANCE_INDEX");
 		String app_host = System.getenv("CF_INSTANCE_IP");
 		return "MMMMMMMMMMMMMMMMMWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMFMMMMMMM\n"+
-                "                    ##        .            \n" +
-                "              ## ## ##       ==            \n" + 
-                "           ## ## ## ##      ===            \n" +
-                "       /""""""""""""""""\\\___/ ===        \n" +
-                "  ~~~ {~~ ~~~~ ~~~ ~~~~ ~~ ~ /  ===- ~~~   \n" +
-                "       \\\______ o          __/            \n" +
-                "         \\\    \\\        __/             \n" +
-                "          \\\____\\\______/                \n" +
-                "                                           \n" +
-                "          |          |                     \n" +
-                "       __ |  __   __ | _  __   _           \n" +
-                "      /  \\\| /  \\\ /   |/  / _\\\ |      \n" +
-                "      \\\__/| \\\__/ \\\__ |\\\_ \\\__  |  \n" +
-                "                                           \n" 
+                "                    ##        .            \n"+
+                "              ## ## ##       ==            \n"+
+                "           ## ## ## ##      ===            \n"+
+                "       /""""""""""""""""\\\___/ ===        \n"+
+                "  ~~~ {~~ ~~~~ ~~~ ~~~~ ~~ ~ /  ===- ~~~   \n"+
+                "       \\\______ o          __/            \n"+
+                "         \\\    \\\        __/             \n"+
+                "          \\\____\\\______/                \n"+
+                "                                           \n"+
+                "          |          |                     \n"+
+                "       __ |  __   __ | _  __   _           \n"+
+                "      /  \\\| /  \\\ /   |/  / _\\\ |      \n"+
+                "      \\\__/| \\\__/ \\\__ |\\\_ \\\__  |  \n"+
+                "                                           \n"
 				+"\r\n"
 				+"Current app version = " + app_ver
 				+"\r\n"
